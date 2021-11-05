@@ -1,13 +1,10 @@
 import React from "react";
-import Olena from "../Images/photo.png";
-import { Absolute, Name, Photo, Target, Job, Column } from "./Absolute.styled";
+
+import { Absolute, Name, Target, Job, Column } from "./Absolute.styled";
 
 export default function Asside() {
   return (
     <Absolute>
-      <Column>
-        <Photo src={Olena} alt="My photo" />
-      </Column>
       <Column>
         <Job>Frontend Developer</Job>
         <Name>Oleksandr Vasylchuk</Name>

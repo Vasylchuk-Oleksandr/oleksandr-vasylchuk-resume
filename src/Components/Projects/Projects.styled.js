@@ -16,9 +16,14 @@ export const Name = styled.span`
 `;
 
 export const Link = styled.a`
-  color: var(--main-color);
+  color: var(--title-color);
   font-size: 22px;
   font-weight: 700;
+  margin-right: 20px;
+  &:nth-child(2n + 1) {
+    display: inline-flex;
+    min-width: 120px;
+  }
 `;
 
 export const Submenu = styled.p`
@@ -26,6 +31,8 @@ export const Submenu = styled.p`
   padding-top: 10px;
 `;
 
-export const List = styled.ol``;
+export const List = styled.ol`
+  /* border-bottom: medium dashed var(--title-color); */
+`;
 
 export const Bold = styled.b``;

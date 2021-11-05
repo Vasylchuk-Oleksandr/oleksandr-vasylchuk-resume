@@ -15,16 +15,18 @@ export default function Work() {
     <List>
       <Organisation>
         <Time>
-          <Company>Search Engine Optimization WEB Developer.</Company>
+          <Company>Position: Search Engine Optimization WEB Developer.</Company>
         </Time>
-        <About>Semalt</About>
+        <About>Name of company: Semalt</About>
         <Time>
-          Analysis and detection of errors that hinder SEO promotion, as well as
-          comprehensive optimization to improve visibility in search engines and
-          attract the target audience.
+          Analysis and detection of errors that hinder SEO promotion, their
+          correction, as well as comprehensive optimization to improve
+          visibility in search engines and attract the target audience. I have
+          experience working with various CMS, and Docker, XAMPP and databases
         </Time>
         <Time>
-          June 2021 - up to now <Divider>|</Divider>Ukraine
+          <About>Period of work:</About> June 2021 - November 2021
+          <Divider>|</Divider>Ukraine
         </Time>
         {/* 
         <Lists>

@@ -1,15 +1,22 @@
 import styled from "@emotion/styled";
 
 export const Seitbar = styled.aside`
-  background: linear-gradient(55deg, var(--main-color), var(--light-color));
-  padding-top: 440px;
-  padding-left: 100px;
-  padding-right: 20px;
+  background: var(--bacgraund-image) no-repeat center center fixed;
+  /* background: rgb(28, 35, 84);
+  background: linear-gradient(
+    82deg,
+    rgba(28, 35, 84, 1) 0%,
+    rgba(2, 2, 59, 1) 48%,
+    rgba(28, 35, 84, 1) 100%
+  ); */
+  background-size: cover;
+  width: 400px;
 `;
 
 export const Section = styled.section`
   padding-bottom: 50px;
-  width: 298px;
+  padding-left: 50px;
+  padding-right: 10px;
 `;
 
 export const List = styled.ul``;
@@ -44,4 +51,13 @@ export const Link = styled.a`
 
 export const Hi = styled.span`
   margin-right: 10px;
+`;
+
+export const Column = styled.div``;
+
+export const Photo = styled.img`
+  /* border-radius: 50%; */
+  box-shadow: inset 0px 10px 10px 10px var(--main-color);
+  width: 350px;
+  margin-bottom: 20px;
 `;

@@ -1,7 +1,7 @@
 import styled from "@emotion/styled";
 
 export const Company = styled.span`
-  color: var(--main-color);
+  color: var(--title-color);
   font-weight: 700;
 `;
 
@@ -17,7 +17,7 @@ export const Divider = styled.span`
 `;
 
 export const About = styled.p`
-  color: var(--main-color);
+  color: var(--title-color);
   font-size: 22px;
   font-weight: 700;
   line-height: 35px;

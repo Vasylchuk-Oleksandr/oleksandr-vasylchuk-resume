@@ -1,6 +1,7 @@
 import React from "react";
 import Education from "../Education/Education";
 import Projects from "../Projects/Projects";
+import Absolute from "../Absolute/Absolute";
 import Work from "../Work/Work";
 import AdditionalEducation from "../AdditionalEducation/AdditionalEducation";
 import { Main, Title } from "./Experience.styled";
@@ -8,7 +9,8 @@ import { Main, Title } from "./Experience.styled";
 export default function Experience() {
   return (
     <Main>
-      <Title>Projects</Title>
+      <Absolute />
+      <Title>Project experience:</Title>
       <Projects />
 
       <Title>Work Experience</Title>
