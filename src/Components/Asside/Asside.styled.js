@@ -10,7 +10,7 @@ export const Seitbar = styled.aside`
     rgba(28, 35, 84, 1) 100%
   ); */
   background-size: cover;
-  width: 400px;
+  width: 450px;
 `;
 
 export const Section = styled.section`

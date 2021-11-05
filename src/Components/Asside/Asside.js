@@ -1,6 +1,5 @@
 import React from "react";
-import MYPhoto from "../Images/photo.png";
-// import PropTypes from "prop-types";
+import MYPhoto from "../Images/photo.jpg";
 import { HiOutlinePhone, HiOutlineMailOpen } from "react-icons/hi";
 import { AiOutlineLinkedin, AiFillGithub } from "react-icons/ai";
 import {

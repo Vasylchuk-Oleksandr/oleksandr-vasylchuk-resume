@@ -14,5 +14,5 @@ export const Title = styled.h3`
   line-height: 35px;
   color: var(--title-color);
   margin-bottom: 20px;
-  margin-top: 20px;
+  margin-top: 50px;
 `;
