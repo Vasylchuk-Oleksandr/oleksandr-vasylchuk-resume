@@ -10,8 +10,7 @@ export default function Projects() {
           target="_blank"
           href="https://oleksandrvasylchuk.github.io/test-sayama/"
         >
-          SAYAMA REAL
-          
+          Sayama Real
         </Link>
         <Link
           target="_blank"
