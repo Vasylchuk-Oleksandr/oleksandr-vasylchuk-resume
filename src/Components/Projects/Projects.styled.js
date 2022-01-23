@@ -28,10 +28,12 @@ export const Link = styled.a`
 
 export const Submenu = styled.p`
   color: var(--main-color);
-  padding-top: 10px;
+  font-size: 20px;
+  font-weight: 500;
 `;
 
 export const List = styled.ol`
+  color: rgb(21, 4, 83);
   /* border-bottom: medium dashed var(--title-color); */
 `;
 

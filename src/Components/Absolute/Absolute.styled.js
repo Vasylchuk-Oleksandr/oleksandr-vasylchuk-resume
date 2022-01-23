@@ -6,13 +6,16 @@ export const Absolute = styled.div`
   margin-top: 60px;
 `;
 
-export const Column = styled.div``;
+export const Column = styled.div`
+  text-align: center;
+`;
 
 export const Job = styled.h2`
   font-size: 30px;
   font-weight: 700;
   line-height: 35px;
   color: var(--title-color);
+  margin-bottom: 15px;
 `;
 
 export const Name = styled.h1`
@@ -27,4 +30,5 @@ export const Target = styled.p`
   font-size: 20px;
   font-weight: 400;
   line-height: 25px;
+  text-align: start;
 `;

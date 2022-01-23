@@ -1,7 +1,7 @@
 import styled from "@emotion/styled";
 
 export const Seitbar = styled.aside`
-  background: var(--bacgraund-image) no-repeat center center fixed;
+  /* background: var(--bacgraund-image) no-repeat center center fixed; */
   /* background: rgb(28, 35, 84);
   background: linear-gradient(
     82deg,
@@ -9,6 +9,7 @@ export const Seitbar = styled.aside`
     rgba(2, 2, 59, 1) 48%,
     rgba(28, 35, 84, 1) 100%
   ); */
+  background: #082d11;
   background-size: cover;
   width: 450px;
 `;

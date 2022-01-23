@@ -15,9 +15,29 @@ export default function Work() {
     <List>
       <Organisation>
         <Time>
-          <Company>Position: Search Engine Optimization WEB Developer.</Company>
+          <Company>Front-End Developer.</Company>
         </Time>
-        <About>Name of company: Semalt</About>
+        <About>ASIA GROUP</About>
+        <Time>
+          Development of a new site. Developing existing sites, adding new
+          pages, changing content. Work with Laravel, PHP, HTML, CSS, JS
+        </Time>
+        <Time>
+          <About></About>November 2021 - up to now<Divider>|</Divider>
+          Ukraine
+        </Time>
+        {/* 
+        <Lists>
+          <Item>teamwork and mutual assistance;</Item>
+          <Item>computer literacy;</Item>
+          <Item>communication with the population.</Item>
+        </Lists> */}
+      </Organisation>
+      <Organisation>
+        <Time>
+          <Company>Search Engine Optimization WEB Developer.</Company>
+        </Time>
+        <About>Semalt</About>
         <Time>
           Analysis and detection of errors that hinder SEO promotion, their
           correction, as well as comprehensive optimization to improve
@@ -25,7 +45,7 @@ export default function Work() {
           experience working with various CMS, and Docker, XAMPP and databases
         </Time>
         <Time>
-          <About>Period of work:</About> June 2021 - November 2021
+          <About></About> June 2021 - November 2021
           <Divider>|</Divider>Ukraine
         </Time>
         {/* 

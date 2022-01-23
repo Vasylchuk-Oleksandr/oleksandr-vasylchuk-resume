@@ -6,6 +6,42 @@ export default function Projects() {
   return (
     <List>
       <Experience>
+        <Link
+          target="_blank"
+          href="https://oleksandrvasylchuk.github.io/test-sayama/"
+        >
+          SAYAMA REAL
+          
+        </Link>
+        <Link
+          target="_blank"
+          href="https://github.com/OleksandrVasylchuk/test-sayama"
+        >
+          <AiFillGithub />
+        </Link>
+        <Name>
+          <Bold>[</Bold> HTML5, CSS3, JavaScript, GSAP.<Bold>]</Bold>
+        </Name>
+        <Submenu>Own project. Business card site</Submenu>
+      </Experience>
+      <Experience>
+        <Link target="_blank" href="https://cabbage-project.netlify.app/">
+          Kapusta
+        </Link>
+        <Link
+          target="_blank"
+          href="https://github.com/virysik/goit-final-project-kapusta-front"
+        >
+          <AiFillGithub />
+        </Link>
+        <Name>
+          <Bold>[</Bold> HTML5, CSS3, JavaScript, Axios, React.js, React router,
+          React hooks, Redux, Redux Toolkit, Async Thunk, Material-UI, React
+          Hook Form, Yup, Node.js<Bold>]</Bold>
+        </Name>
+        <Submenu>Team Project. Web app for calculation your finances.</Submenu>
+      </Experience>
+      <Experience>
         <Link target="_blank" href="https://sanya-phonebook.netlify.app/">
           Phonebook
         </Link>
@@ -19,16 +55,16 @@ export default function Projects() {
           <Bold>[</Bold> HTML5, CSS3, JavaScript, React<Bold>]</Bold>
         </Name>
         <Submenu>
-          An application for storing contacts, that has registration feature and
-          can work with private collections of contacts. Contacts are stored on
-          the separate backend. The app is written using React. State management
-          is done using Redux. The app consists of several pages. Routing is
-          implemented.
+          Own project. An application for storing contacts, that has
+          registration feature and can work with private collections of
+          contacts. Contacts are stored on the separate backend. The app is
+          written using React. State management is done using Redux. The app
+          consists of several pages. Routing is implemented.
         </Submenu>
       </Experience>
       <Experience>
         <Link target="_blank" href="https://sanyabatyushka-movies.netlify.app/">
-          Filmoteka
+          Movies
         </Link>
         <Link
           target="_blank"
@@ -41,9 +77,10 @@ export default function Projects() {
           React hooks<Bold>]</Bold>
         </Name>
         <Submenu>
-          A movie finder application with the ability to view movie information,
-          cast and reviews. Routing is implemented. For the backend is using
-          themoviedb.org API. Asynchronous JavaScript code loading is added.
+          Own project. A movie finder application with the ability to view movie
+          information, cast and reviews. Routing is implemented. For the backend
+          is using themoviedb.org API. Asynchronous JavaScript code loading is
+          added.
         </Submenu>
       </Experience>
       <Experience>
@@ -63,8 +100,8 @@ export default function Projects() {
           <Bold>[</Bold> HTML5, CSS3, JavaScript, Axios<Bold>]</Bold>
         </Name>
         <Submenu>
-          An image finder application with the ability to view images on a modal
-          window. For the backend is using pixabay.com API
+          Own project. An image finder application with the ability to view
+          images on a modal window. For the backend is using pixabay.com API
         </Submenu>
       </Experience>
       <Experience>
@@ -112,7 +149,7 @@ export default function Projects() {
       <Experience>
         <Link
           target="_blank"
-          href="https://olena-p.github.io/goit-markup-hw-08/"
+          href="https://github.com/OleksandrVasylchuk/WebStudio"
         >
           WebStudio
         </Link>
@@ -125,7 +162,25 @@ export default function Projects() {
         <Name>
           <Bold>[</Bold> HTML5, CSS3, SASS, BEM <Bold>]</Bold>
         </Name>
-        <Submenu>A website with responsive layout.</Submenu>
+        <Submenu>Own project. A website with responsive layout.</Submenu>
+      </Experience>
+      <Experience>
+        <Link
+          target="_blank"
+          href="https://oleksandrvasylchuk.github.io/coffee-face/"
+        >
+          CoffeeFace
+        </Link>
+        <Link
+          target="_blank"
+          href="https://github.com/OleksandrVasylchuk/coffee-face"
+        >
+          <AiFillGithub />
+        </Link>
+        <Name>
+          <Bold>[</Bold> HTML5, CSS3, SASS, BEM <Bold>]</Bold>
+        </Name>
+        <Submenu>Own project. A website with responsive layout.</Submenu>
       </Experience>
     </List>
   );

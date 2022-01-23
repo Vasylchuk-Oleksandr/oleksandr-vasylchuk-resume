@@ -25,6 +25,7 @@ export const About = styled.p`
 
 export const Organisation = styled.li`
   list-style-type: none;
+  margin-bottom: 30px;
 `;
 
 export const List = styled.ol``;
