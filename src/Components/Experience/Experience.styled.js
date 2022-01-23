@@ -3,8 +3,8 @@ import styled from "@emotion/styled";
 export const Main = styled.main`
   padding-left: 50px;
   padding-right: 30px;
-  padding-bottom: 20px;
-  background: #c1ecb6;
+  padding-bottom: 50px;
+  background: var(--white-color);
   box-shadow: inset 0 0 10px 1px hsl(0deg 0% 48% / 20%);
 `;
 

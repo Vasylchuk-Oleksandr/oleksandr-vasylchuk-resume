@@ -1,10 +1,10 @@
 :root {
   --main-color: #080808;
-  --title-color: rgb(21, 4, 83);
+  --title-color: #082d11;
   --title-color-black: rgb(6, 0, 29);
   --light-color: rgb(0, 0, 0);
   --sidebar-color: rgb(13, 54, 39);
-  --white-color: #dcffea;
+  --white-color: #ffffff;
   --bacgraund-image:  url(./Components/Images/завантаження.jpg);
 }
 

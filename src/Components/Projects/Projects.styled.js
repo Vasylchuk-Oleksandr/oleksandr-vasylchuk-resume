@@ -22,7 +22,7 @@ export const Link = styled.a`
   margin-right: 20px;
   &:nth-child(2n + 1) {
     display: inline-flex;
-    min-width: 120px;
+    min-width: 149px;
   }
 `;
 
