@@ -6,6 +6,51 @@ export default function Projects() {
   return (
     <List>
       <Experience>
+        <div>
+          <Link target="_blank" href="https://free-slot.win/">
+            free-slot.win
+          </Link>
+        </div>
+        <div>
+          <Link target="_blank" href="https://casino-online.ph/">
+            casino-online.ph
+          </Link>
+        </div>
+        <Link target="_blank" href="https://casinos-online.win/">
+          casinos-online.win
+        </Link>
+        <Name>
+          <Bold>[</Bold> HTML5, CSS3, SASS, BEM, PHP, JS, JQUERY, WordPress,
+          ACF, WPML <Bold>]</Bold>
+        </Name>
+        <Submenu>
+          Projects for TRIONIKA. Responsive layout of WordPress templates based
+          on layouts in Figma with effective optimization under Google
+          Lighthouse. Extract Wordpress layout. creation of simple and medium
+          JavaScript/jQuery scripts to implement additional functionality of the
+          WordPress theme. Creation of custom post types, taxonomies.
+        </Submenu>
+      </Experience>
+      <Experience>
+        <Link
+          target="_blank"
+          href="https://oleksandrvasylchuk.github.io/coca-cola/"
+        >
+          Coca-Cola
+        </Link>
+        <Link
+          target="_blank"
+          href="https://oleksandrvasylchuk.github.io/coca-cola/"
+        >
+          <AiFillGithub />
+        </Link>
+        <Name>
+          <Bold>[</Bold> HTML5, CSS3, JavaScript, fullPage.js, GSAP.
+          <Bold>]</Bold>
+        </Name>
+        <Submenu>Own project. Business card site</Submenu>
+      </Experience>
+      <Experience>
         <Link
           target="_blank"
           href="https://oleksandrvasylchuk.github.io/test-sayama/"
@@ -123,63 +168,6 @@ export default function Projects() {
         <Submenu>
           Team project. Filmoteka - help yourself with choosing a movie.
         </Submenu>
-      </Experience>
-      <Experience>
-        <Link
-          target="_blank"
-          href="https://dmitry-karas.github.io/front-end__division--HellEN/"
-        >
-          Hellen
-        </Link>
-        <Link
-          target="_blank"
-          href="https://github.com/Dmitry-Karas/front-end__division--HellEN"
-        >
-          <AiFillGithub />
-        </Link>
-        <Name>
-          <Bold>[</Bold> HTML5, CSS3, SASS, BEM <Bold>]</Bold>
-        </Name>
-        <Submenu>
-          Team project. A website with responsive layout for HellEn - site for
-          an Englishteacher.
-        </Submenu>
-      </Experience>
-      <Experience>
-        <Link
-          target="_blank"
-          href="https://github.com/OleksandrVasylchuk/WebStudio"
-        >
-          WebStudio
-        </Link>
-        <Link
-          target="_blank"
-          href="https://github.com/OleksandrVasylchuk/goit-markup-hw-08"
-        >
-          <AiFillGithub />
-        </Link>
-        <Name>
-          <Bold>[</Bold> HTML5, CSS3, SASS, BEM <Bold>]</Bold>
-        </Name>
-        <Submenu>Own project. A website with responsive layout.</Submenu>
-      </Experience>
-      <Experience>
-        <Link
-          target="_blank"
-          href="https://oleksandrvasylchuk.github.io/coffee-face/"
-        >
-          CoffeeFace
-        </Link>
-        <Link
-          target="_blank"
-          href="https://github.com/OleksandrVasylchuk/coffee-face"
-        >
-          <AiFillGithub />
-        </Link>
-        <Name>
-          <Bold>[</Bold> HTML5, CSS3, SASS, BEM <Bold>]</Bold>
-        </Name>
-        <Submenu>Own project. A website with responsive layout.</Submenu>
       </Experience>
     </List>
   );

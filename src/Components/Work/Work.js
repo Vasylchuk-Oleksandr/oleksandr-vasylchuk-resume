@@ -17,6 +17,23 @@ export default function Work() {
         <Time>
           <Company>Front-End Developer.</Company>
         </Time>
+        <About>TRIONIKA </About>
+        <Time>Development of a new sites. PHP, HTML, CSS, JS, WordPress</Time>
+        <Time>
+          <About></About>February 2022 - up to now<Divider>|</Divider>
+          Ukraine
+        </Time>
+        {/* 
+        <Lists>
+          <Item>teamwork and mutual assistance;</Item>
+          <Item>computer literacy;</Item>
+          <Item>communication with the population.</Item>
+        </Lists> */}
+      </Organisation>
+      <Organisation>
+        <Time>
+          <Company>Front-End Developer.</Company>
+        </Time>
         <About>ASIA GROUP</About>
         <Time>
           Development of a new site. Developing existing sites, adding new

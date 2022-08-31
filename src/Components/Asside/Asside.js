@@ -121,7 +121,6 @@ export default function Asside(techskills, softskills) {
           <List>
             <Item>English - Pre-Intermediate</Item>
             <Item>Ukrainian - Mastery</Item>
-            <Item>Russian - Advanced</Item>
           </List>
         </Section>
       </Seitbar>
