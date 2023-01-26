@@ -7,6 +7,29 @@ export default function Projects() {
     <List>
       <Experience>
         <div>
+          <Link target="_blank" href="https://ein-des-ein.com/">
+            ein-des-ein.com
+          </Link>
+        </div>
+        <div>
+          <Link target="_blank" href="https://onme.v-selevertov.space/">
+            onme.v-selevertov.space
+          </Link>
+        </div>
+        <Link target="_blank" href="https://dooozen.io/">
+          dooozen.io
+        </Link>
+        <Name>
+          <Bold>[</Bold> HTML5, CSS3, SASS, BEM, PHP, JS, JQUERY, WordPress,
+          ACF, PUG<Bold>]</Bold>
+        </Name>
+        <Submenu>
+          Corporate projects for EIN-DES-EIN. and business card sites to
+          advertise apps.
+        </Submenu>
+      </Experience>
+      <Experience>
+        <div>
           <Link target="_blank" href="https://free-slot.win/">
             free-slot.win
           </Link>
@@ -34,14 +57,12 @@ export default function Projects() {
       <Experience>
         <Link
           target="_blank"
-          href="https://oleksandrvasylchuk.github.io/coca-cola/"
-        >
+          href="https://oleksandrvasylchuk.github.io/coca-cola/">
           Coca-Cola
         </Link>
         <Link
           target="_blank"
-          href="https://oleksandrvasylchuk.github.io/coca-cola/"
-        >
+          href="https://oleksandrvasylchuk.github.io/coca-cola/">
           <AiFillGithub />
         </Link>
         <Name>
@@ -53,14 +74,12 @@ export default function Projects() {
       <Experience>
         <Link
           target="_blank"
-          href="https://oleksandrvasylchuk.github.io/test-sayama/"
-        >
+          href="https://oleksandrvasylchuk.github.io/test-sayama/">
           Sayama Real
         </Link>
         <Link
           target="_blank"
-          href="https://github.com/OleksandrVasylchuk/test-sayama"
-        >
+          href="https://github.com/OleksandrVasylchuk/test-sayama">
           <AiFillGithub />
         </Link>
         <Name>
@@ -74,8 +93,7 @@ export default function Projects() {
         </Link>
         <Link
           target="_blank"
-          href="https://github.com/virysik/goit-final-project-kapusta-front"
-        >
+          href="https://github.com/virysik/goit-final-project-kapusta-front">
           <AiFillGithub />
         </Link>
         <Name>
@@ -85,14 +103,13 @@ export default function Projects() {
         </Name>
         <Submenu>Team Project. Web app for calculation your finances.</Submenu>
       </Experience>
-      <Experience>
+      {/* <Experience>
         <Link target="_blank" href="https://sanya-phonebook.netlify.app/">
           Phonebook
         </Link>
         <Link
           target="_blank"
-          href="https://github.com/OleksandrVasylchuk/goit-react-hw-08-phonebook"
-        >
+          href="https://github.com/OleksandrVasylchuk/goit-react-hw-08-phonebook">
           <AiFillGithub />
         </Link>
         <Name>
@@ -105,15 +122,14 @@ export default function Projects() {
           written using React. State management is done using Redux. The app
           consists of several pages. Routing is implemented.
         </Submenu>
-      </Experience>
-      <Experience>
+      </Experience> */}
+      {/* <Experience>
         <Link target="_blank" href="https://sanyabatyushka-movies.netlify.app/">
           Movies
         </Link>
         <Link
           target="_blank"
-          href="https://github.com/OleksandrVasylchuk/goit-react-hw-05-movies"
-        >
+          href="https://github.com/OleksandrVasylchuk/goit-react-hw-05-movies">
           <AiFillGithub />
         </Link>
         <Name>
@@ -126,18 +142,16 @@ export default function Projects() {
           is using themoviedb.org API. Asynchronous JavaScript code loading is
           added.
         </Submenu>
-      </Experience>
-      <Experience>
+      </Experience> */}
+      {/* <Experience>
         <Link
           target="_blank"
-          href="https://oleksandrvasylchuk.github.io/goit-react-hw-04-hooks-images/"
-        >
+          href="https://oleksandrvasylchuk.github.io/goit-react-hw-04-hooks-images/">
           Image Finder
         </Link>
         <Link
           target="_blank"
-          href="https://github.com/OleksandrVasylchuk/goit-react-hw-04-hooks-images"
-        >
+          href="https://github.com/OleksandrVasylchuk/goit-react-hw-04-hooks-images">
           <AiFillGithub />
         </Link>
         <Name>
@@ -147,18 +161,16 @@ export default function Projects() {
           Own project. An image finder application with the ability to view
           images on a modal window. For the backend is using pixabay.com API
         </Submenu>
-      </Experience>
+      </Experience> */}
       <Experience>
         <Link
           target="_blank"
-          href="https://dmitry-karas.github.io/front-end__division--filmoteka/"
-        >
+          href="https://dmitry-karas.github.io/front-end__division--filmoteka/">
           Filmoteka
         </Link>
         <Link
           target="_blank"
-          href="https://github.com/Dmitry-Karas/front-end__division--filmoteka/tree/main"
-        >
+          href="https://github.com/Dmitry-Karas/front-end__division--filmoteka/tree/main">
           <AiFillGithub />
         </Link>
         <Name>

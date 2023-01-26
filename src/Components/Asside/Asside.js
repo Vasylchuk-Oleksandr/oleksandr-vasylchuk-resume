@@ -38,8 +38,7 @@ export default function Asside(techskills, softskills) {
               <Link
                 href="mailto:sanyabatyushka@gmail.com"
                 target="_blank"
-                rel="noreferrer"
-              >
+                rel="noreferrer">
                 <Hi>
                   <HiOutlineMailOpen />
                 </Hi>
@@ -50,8 +49,7 @@ export default function Asside(techskills, softskills) {
               <Link
                 href="https://www.linkedin.com/in/oleksandr-vasylchuk"
                 target="_blank"
-                rel="noreferrer"
-              >
+                rel="noreferrer">
                 <Hi>
                   <AiOutlineLinkedin />
                 </Hi>
@@ -63,8 +61,7 @@ export default function Asside(techskills, softskills) {
               <Link
                 href="https://github.com/OleksandrVasylchuk"
                 target="_blank"
-                rel="noreferrer"
-              >
+                rel="noreferrer">
                 <Hi>
                   <AiFillGithub />
                 </Hi>
@@ -80,7 +77,7 @@ export default function Asside(techskills, softskills) {
             {/* {techskills.map(({ name, id }) => (
             <Item key={id}>{name}</Item>
           ))} */}
-            <Item>React.js/React router/React hooks</Item>
+            {/* <Item>React.js/React router/React hooks</Item> */}
             <Item>HTML5/CSS3/SASS/BEM</Item>
             <Item>JavaScript Es6+ </Item>
             <Item>Handlebars</Item>
@@ -92,7 +89,9 @@ export default function Asside(techskills, softskills) {
             <Item>Docker</Item>
             <Item>XAMPP</Item>
             <Item>Figma</Item>
+            <Item>JQuery</Item>
             <Item>NPM</Item>
+            <Item>PHP</Item>
             <Item>Git</Item>
             {/* <Item>
             Formik/Yup/React Hook
@@ -107,11 +106,12 @@ export default function Asside(techskills, softskills) {
             {/* {softskills.map(({ name, id }) => (
             <Item key={id}>{name}</Item>
           ))} */}
-            <Item>Honesty</Item>
+            <Item>Funny</Item>
             <Item>Friendly</Item>
+            <Item>Honesty</Item>
             <Item>Teamwork</Item>
-            <Item>Communicable</Item>
             <Item>Responsibility</Item>
+            <Item>Communicable</Item>
             <Item>Self development</Item>
           </List>
         </Section>

@@ -15,12 +15,32 @@ export default function Work() {
     <List>
       <Organisation>
         <Time>
-          <Company>Front-End Developer.</Company>
+          <Company>Full Stack.</Company>
+        </Time>
+        <About>EIN-DES-EIN </About>
+        <Time>
+          Development of new sites and landing pages. PHP, HTML, CSS, JS,
+          WordPress
+        </Time>
+        <Time>
+          <About></About>October 2022 - up to now<Divider>|</Divider>
+          Ukraine
+        </Time>
+        {/* 
+        <Lists>
+          <Item>teamwork and mutual assistance;</Item>
+          <Item>computer literacy;</Item>
+          <Item>communication with the population.</Item>
+        </Lists> */}
+      </Organisation>
+      <Organisation>
+        <Time>
+          <Company>Full Stack.</Company>
         </Time>
         <About>TRIONIKA </About>
         <Time>Development of a new sites. PHP, HTML, CSS, JS, WordPress</Time>
         <Time>
-          <About></About>February 2022 - up to now<Divider>|</Divider>
+          <About></About>February 2022 - October 2022<Divider>|</Divider>
           Ukraine
         </Time>
         {/* 
@@ -40,7 +60,7 @@ export default function Work() {
           pages, changing content. Work with Laravel, PHP, HTML, CSS, JS
         </Time>
         <Time>
-          <About></About>November 2021 - up to now<Divider>|</Divider>
+          <About></About>November 2021 - February 2022<Divider>|</Divider>
           Ukraine
         </Time>
         {/* 
