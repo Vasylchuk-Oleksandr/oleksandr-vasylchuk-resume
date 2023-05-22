@@ -17,13 +17,27 @@ export default function Work() {
         <Time>
           <Company>Full Stack.</Company>
         </Time>
+        <About>Smart Pipl</About>
+        <Time>
+          Development of new sites and landing pages. HTML5, CSS3, SASS, PHP,
+          JS, JQUERY, AJAX, WordPress, ACF, Elementor
+        </Time>
+        <Time>
+          <About></About>February 2023 - up to now<Divider>|</Divider>
+          Ukraine
+        </Time>
+      </Organisation>
+      <Organisation>
+        <Time>
+          <Company>Full Stack.</Company>
+        </Time>
         <About>EIN-DES-EIN </About>
         <Time>
           Development of new sites and landing pages. PHP, HTML, CSS, JS,
           WordPress
         </Time>
         <Time>
-          <About></About>October 2022 - up to now<Divider>|</Divider>
+          <About></About>October 2022 - February 2023<Divider>|</Divider>
           Ukraine
         </Time>
         {/* 

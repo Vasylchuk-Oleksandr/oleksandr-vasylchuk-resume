@@ -7,6 +7,32 @@ export default function Projects() {
     <List>
       <Experience>
         <div>
+          <div>
+            <Link target="_blank" href="https://scaleops.com/">
+              scaleops
+            </Link>
+          </div>
+          <Link
+            target="_blank"
+            href="https://www.top7creditcardprocessing.com/top-7-credit-card-processing-2023/">
+            top7creditcardprocessing
+          </Link>
+        </div>
+        <Link target="_blank" href="https://multiverse.media/">
+          multiverse.media
+        </Link>
+        <Name>
+          <Bold>[</Bold> HTML5, CSS3, SASS, PHP, JS, JQUERY, AJAX, WordPress,
+          ACF, Elementor
+          <Bold>]</Bold>
+        </Name>
+        <Submenu>
+          Sites for various companies. Business card sites to advertise
+          programs.
+        </Submenu>
+      </Experience>
+      <Experience>
+        <div>
           <Link target="_blank" href="https://ein-des-ein.com/">
             ein-des-ein.com
           </Link>
@@ -72,22 +98,6 @@ export default function Projects() {
         <Submenu>Own project. Business card site</Submenu>
       </Experience>
       <Experience>
-        <Link
-          target="_blank"
-          href="https://oleksandrvasylchuk.github.io/test-sayama/">
-          Sayama Real
-        </Link>
-        <Link
-          target="_blank"
-          href="https://github.com/OleksandrVasylchuk/test-sayama">
-          <AiFillGithub />
-        </Link>
-        <Name>
-          <Bold>[</Bold> HTML5, CSS3, JavaScript, GSAP.<Bold>]</Bold>
-        </Name>
-        <Submenu>Own project. Business card site</Submenu>
-      </Experience>
-      <Experience>
         <Link target="_blank" href="https://cabbage-project.netlify.app/">
           Kapusta
         </Link>
@@ -103,65 +113,7 @@ export default function Projects() {
         </Name>
         <Submenu>Team Project. Web app for calculation your finances.</Submenu>
       </Experience>
-      {/* <Experience>
-        <Link target="_blank" href="https://sanya-phonebook.netlify.app/">
-          Phonebook
-        </Link>
-        <Link
-          target="_blank"
-          href="https://github.com/OleksandrVasylchuk/goit-react-hw-08-phonebook">
-          <AiFillGithub />
-        </Link>
-        <Name>
-          <Bold>[</Bold> HTML5, CSS3, JavaScript, React<Bold>]</Bold>
-        </Name>
-        <Submenu>
-          Own project. An application for storing contacts, that has
-          registration feature and can work with private collections of
-          contacts. Contacts are stored on the separate backend. The app is
-          written using React. State management is done using Redux. The app
-          consists of several pages. Routing is implemented.
-        </Submenu>
-      </Experience> */}
-      {/* <Experience>
-        <Link target="_blank" href="https://sanyabatyushka-movies.netlify.app/">
-          Movies
-        </Link>
-        <Link
-          target="_blank"
-          href="https://github.com/OleksandrVasylchuk/goit-react-hw-05-movies">
-          <AiFillGithub />
-        </Link>
-        <Name>
-          <Bold>[</Bold> HTML5, CSS3, JavaScript, Axios, React.js, React router,
-          React hooks<Bold>]</Bold>
-        </Name>
-        <Submenu>
-          Own project. A movie finder application with the ability to view movie
-          information, cast and reviews. Routing is implemented. For the backend
-          is using themoviedb.org API. Asynchronous JavaScript code loading is
-          added.
-        </Submenu>
-      </Experience> */}
-      {/* <Experience>
-        <Link
-          target="_blank"
-          href="https://oleksandrvasylchuk.github.io/goit-react-hw-04-hooks-images/">
-          Image Finder
-        </Link>
-        <Link
-          target="_blank"
-          href="https://github.com/OleksandrVasylchuk/goit-react-hw-04-hooks-images">
-          <AiFillGithub />
-        </Link>
-        <Name>
-          <Bold>[</Bold> HTML5, CSS3, JavaScript, Axios<Bold>]</Bold>
-        </Name>
-        <Submenu>
-          Own project. An image finder application with the ability to view
-          images on a modal window. For the backend is using pixabay.com API
-        </Submenu>
-      </Experience> */}
+
       <Experience>
         <Link
           target="_blank"
