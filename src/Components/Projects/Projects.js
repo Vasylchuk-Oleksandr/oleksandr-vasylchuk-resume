@@ -12,11 +12,6 @@ export default function Projects() {
               scaleops
             </Link>
           </div>
-          <Link
-            target="_blank"
-            href="https://www.top7creditcardprocessing.com/top-7-credit-card-processing-2023/">
-            top7creditcardprocessing
-          </Link>
         </div>
         <Link target="_blank" href="https://multiverse.media/">
           multiverse.media
@@ -37,11 +32,6 @@ export default function Projects() {
             ein-des-ein.com
           </Link>
         </div>
-        <div>
-          <Link target="_blank" href="https://onme.v-selevertov.space/">
-            onme.v-selevertov.space
-          </Link>
-        </div>
         <Link target="_blank" href="https://dooozen.io/">
           dooozen.io
         </Link>
@@ -56,13 +46,8 @@ export default function Projects() {
       </Experience>
       <Experience>
         <div>
-          <Link target="_blank" href="https://free-slot.win/">
-            free-slot.win
-          </Link>
-        </div>
-        <div>
-          <Link target="_blank" href="https://casino-online.ph/">
-            casino-online.ph
+          <Link target="_blank" href="https://slotogate.com/">
+            slotogate.com
           </Link>
         </div>
         <Link target="_blank" href="https://casinos-online.win/">
