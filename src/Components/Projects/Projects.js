@@ -7,11 +7,17 @@ export default function Projects() {
     <List>
       <Experience>
         <div>
-          <div>
-            <Link target="_blank" href="https://scaleops.com/">
-              scaleops
-            </Link>
-          </div>
+          <Link target="_blank" href="https://stirnweiss-brenner.de/">
+            stirnweiss-brenner.de
+          </Link>
+
+          <Link target="_blank" href="https://aisuperior.com/">
+            aisuperior.com
+          </Link>
+
+          <Link target="_blank" href="https://scaleops.com/">
+            scaleops
+          </Link>
         </div>
         <Link target="_blank" href="https://multiverse.media/">
           multiverse.media

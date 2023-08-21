@@ -11,8 +11,9 @@ export const Divider = styled.span`
 
 export const About = styled.p`
   color: var(--main-color);
-  font-size: 22px;
-  line-height: 35px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
 `;
 
 export const Organisation = styled.li`
@@ -23,7 +24,7 @@ export const List = styled.ol``;
 
 export const Time = styled.p`
   color: var(--light-color);
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 400;
-  line-height: 35px;
+  line-height: 24px;
 `;

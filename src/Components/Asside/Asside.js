@@ -83,15 +83,17 @@ export default function Asside(techskills, softskills) {
             <Item>Handlebars</Item>
             {/* <Item>Redux/Redux Toolkit/Async Redux</Item> */}
             <Item>WordPress</Item>
-            <Item>VS Code</Item>
+            <Item>Elementor</Item>
             <Item>WebPack</Item>
-            <Item>Parcel</Item>
-            <Item>Docker</Item>
+            <Item>VS Code</Item>
             <Item>XAMPP</Item>
-            <Item>Figma</Item>
+            <Item>Docker</Item>
             <Item>JQuery</Item>
+            <Item>Figma</Item>
+            <Item>AJAX</Item>
             <Item>NPM</Item>
             <Item>PHP</Item>
+            <Item>ACF</Item>
             <Item>Git</Item>
             {/* <Item>
             Formik/Yup/React Hook

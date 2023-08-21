@@ -27,8 +27,8 @@ export const Name = styled.h1`
 
 export const Target = styled.p`
   color: var(--main-color);
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 400;
-  line-height: 25px;
+  line-height: 24px;
   text-align: start;
 `;

@@ -28,8 +28,9 @@ export const Link = styled.a`
 
 export const Submenu = styled.p`
   color: var(--main-color);
-  font-size: 20px;
-  font-weight: 500;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
 `;
 
 export const List = styled.ol`

@@ -1,15 +1,18 @@
 import styled from "@emotion/styled";
 
 export const Company = styled.span`
+  display: flex;
   color: var(--title-color);
+  font-size: 20px;
   font-weight: 700;
+  line-height: 24px;
 `;
 
 export const Time = styled.p`
   color: var(--light-color);
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 400;
-  line-height: 35px;
+  line-height: 24px;
 `;
 
 export const Divider = styled.span`
@@ -17,15 +20,16 @@ export const Divider = styled.span`
 `;
 
 export const About = styled.p`
-  color: var(--title-color);
-  font-size: 22px;
+  color: #7b9d83;
+  margin-left: 15px;
+  font-size: 20px;
   font-weight: 700;
-  line-height: 35px;
+  line-height: 24px;
 `;
 
 export const Organisation = styled.li`
   list-style-type: none;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 `;
 
 export const List = styled.ol``;
