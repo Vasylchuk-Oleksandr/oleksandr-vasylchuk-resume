@@ -6,19 +6,7 @@ export default function Projects() {
   return (
     <List>
       <Experience>
-        <div>
-          <Link target="_blank" href="https://free-slot.win/">
-            free-slot.win
-          </Link>
-        </div>
-        <div>
-          <Link target="_blank" href="https://casino-online.ph/">
-            casino-online.ph
-          </Link>
-        </div>
-        <Link target="_blank" href="https://casinos-online.win/">
-          casinos-online.win
-        </Link>
+       
         <Name>
           <Bold>[</Bold> HTML5, CSS3, SASS, BEM, PHP, JS, JQUERY, WordPress,
           ACF, WPML <Bold>]</Bold>
